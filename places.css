@@ -1,0 +1,24 @@
+header {
+    position: static;
+}
+
+body {
+    background: linear-gradient(30deg, rgb(78, 78, 78), rgb(57, 57, 57));
+}
+
+main ul {
+    width: 800px;
+    margin: 0 auto;
+}
+
+main li {
+    display: flex;
+    background-color: white;
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.2);
+    border-radius: 6px;
+}
+
+main li img {
+    width: 500px;
+    height: 400px;
+}
